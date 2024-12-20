@@ -1,0 +1,6 @@
+Type script is the superset of javascript.
+
+__________________Difference between Typescript and Java Script_____________________
+In js when we assign a value to variable by looking on the value itself the  datatype is determined.  eg:name="Ashly"
+In typescript we have to explicitly specify the datatype name :string="Ashly"
+
